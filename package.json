@@ -1,0 +1,17 @@
+{
+  "name": "ejerc1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
